@@ -23,11 +23,8 @@ The project structure follows the standard React Native project structure with t
 - `src/components`: Contains reusable components used throughout the app.
 - `src/screens`: Contains the different screens of the Uber mobile app (e.g., Home, Profile, Ride Details).
 
-Feel free to explore the codebase and make any necessary modifications to suit your needs.
 
-## Contributing
 
-Contributions are welcome! If you have any ideas, suggestions, or improvements, please open an issue or submit a pull request.
 
    
 
